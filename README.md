@@ -10,3 +10,6 @@ drag the points off of or outside of the horizontal line.
 - The user cannot drag and place the points in between two tick marks. Instead, points will snap
 to the closest tick mark.
 - Highlight the area between the two points with a bold line.
+
+
+### **Please Note: Both points begin at number 5 on the x-axis.**
