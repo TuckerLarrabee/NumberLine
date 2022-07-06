@@ -1,6 +1,6 @@
 # NumberLine Assignment
 
-![image](https://user-images.githubusercontent.com/94421867/177653216-ab443ca6-24f9-4e54-9314-a9501f3c7211.png)
+![image](https://user-images.githubusercontent.com/94421867/177653720-073d546f-6e33-4b63-9ffb-9b61e9c2f486.png)
 
 ## Using HTML, CSS, Javascript, and/or jQuery, create a number line with two draggable points. Similar to
 the image shown above, the number line should have:
