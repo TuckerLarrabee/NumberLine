@@ -1,6 +1,6 @@
-$(document).ready(function() {
-    $( "#slider" ).slider()
-})
+// $(document).ready(function() {
+//     $( "#slider" ).slider()
+// })
 
 $(function () {
     $("#number-line").slider({
