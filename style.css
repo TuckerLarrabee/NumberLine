@@ -6,3 +6,12 @@
     max-width: 1000px;
     margin: 5px auto;
 }
+
+#number-line-values {
+    display: flex;
+    justify-content: center;
+}
+
+.ui-widget-header {
+    background:rgb(36, 34, 34);
+}

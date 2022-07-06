@@ -3,18 +3,18 @@ $(document).ready(function() {
 })
 
 $(function () {
-    $("#slider-range").slider({
+    $("#number-line").slider({
       range: true,
-      min: -5,
+      min: - 5,
       max: 5,
       values: [75, 300],
       slide: function (event, ui) {
-        $("#amount").val(ui.values[0] + " -> " + ui.values[1]);
+        $("#amount").val(ui.values[0] + " to " + ui.values[1]);
       },
     });
     $("#amount").val(
-        $("#slider-range").slider("values", 0) +
+        $("#number-line").slider("values", 0) +
         " - " +
-        $("#slider-range").slider("values", 1)
+        $("#number-line").slider("values", 1)
     );
   });
