@@ -6,6 +6,58 @@
     max-width: 1000px;
     margin: 5px auto;
 }
+.container2 {
+    max-width: 100;
+    max-height: 10px;
+    margin: 5px auto;
+    outline: 1px solid black;
+}
+
+.vertical-ticks {
+    display: flex;
+    justify-content: space-between;
+}
+
+.vl {
+    border-left: 2px solid black;
+    height: 20px;
+}
+
+.xaxis-number-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+#two {
+    position: relative;
+    left: -6px;
+}
+
+#three {
+    position: relative;
+    left: -4px;
+}
+
+#minusFour {
+    position: relative;
+    left: -8px;
+}
+
+#minusThree, #one {
+    position: relative;
+    left: -10px;
+}
+
+#minusTwo, #zero {
+    position: relative;
+    left: -13px;
+}
+
+#minusOne {
+    position: relative;
+    left: -15px;
+}
 
 #number-line-values {
     display: flex;
