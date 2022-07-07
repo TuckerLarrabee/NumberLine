@@ -1,7 +1,5 @@
 # NumberLine Assignment
 
-### **Please Note: Both points begin at number 5 on the x-axis.**
-
 ![image](https://user-images.githubusercontent.com/94421867/177653720-073d546f-6e33-4b63-9ffb-9b61e9c2f486.png)
 
 ## Using HTML, CSS, Javascript, and/or jQuery, create a number line with two draggable points. Similar to
