@@ -7,7 +7,6 @@ $(function () {
       range: true,
       min: - 5,
       max: 5,
-      values: [75, 300],
       slide: function (event, ui) {
         $("#amount").val(ui.values[0] + " to " + ui.values[1]);
       },
